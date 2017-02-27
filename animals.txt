@@ -4,3 +4,6 @@ chicken
 whale
 seahorse
 dolphin
+monkey
+phython
+bird of paradise
